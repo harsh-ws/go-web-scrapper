@@ -1,0 +1,1 @@
+A web scaper built using the Colly Package in Golang.
